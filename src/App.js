@@ -4,6 +4,9 @@ import {BrowserRouter as Router, Route} from "react-router-dom";
 //import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/@fortawesome/fontawesome-free/css/all.css';
+import '../node_modules/jquery/dist/jquery.min.js'
+import '../node_modules/bootstrap/dist/js/bootstrap.min.js'
+import '../node_modules/popper.js/dist/umd/popper.min.js'
 //import './custom.css';
 
 import '../node_modules/jquery/dist/jquery.min.js';
